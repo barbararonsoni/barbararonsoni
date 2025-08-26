@@ -1,6 +1,8 @@
-## Hi there 👋
+## Olá
 
-Sou advogada e mestranda em filosofia do direito na UFMG.
+- Advogada (OAB/RS 134.372 e OAB/RJ 265.168)
+- Rio de Janeiro, Brasil
+- Mestranda em Filosofia do Direito na UFMG
 <!--
 **barbararonsoni/barbararonsoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
